@@ -19,22 +19,25 @@ Layouts that used to take hours now take minutes.
 
 ##Getting Started
 -------------------------------------------------
-<pre>1- $ yo install angular "appName"</pre>
-<pre> 2-$ npm install && bower install</pre>
-<p> 3- Open app/index.html in a text editor - preferably **Sublime Text**</p>
-<p> 4- Add Content/Media/Social to empty HTML5 body and </p>
-<p>5-Save blank.html and open in your favorite Web Browser</p>
-<p>6-Have fun!</p>
+<ol>
+  <pre> $ yo install angular "appName"</pre>
+  <pre> $ npm install && bower install</pre>
+  <p> - Open app/index.html in a text editor - preferably **Sublime Text**</p>
+  <p> - Add Content/Media/Social to empty HTML5 body and </p>
+  <p> - 5 Save blank.html and open in your favorite Web Browser</p>
+  <p> - 6 Have fun!</p>
+</ol>
 
 <footer>
 -------------------------------------------------
-HTML KickStart is FREE and Open Source.
+AngularJS, jQUery, PHP, Foundation, Yeoman, & Bower are FREE and Open Source.
 Release Under the MIT Open Source License.
 -------------------------------------------------
-Copyright © 2013-2014 Rob Iacobelli (Glitchtank Webdevs - This is our world. We prepare the strong, new businesses and prepare them to handle contemporary tech issues both software/hardware/e-Commerce and start any project on a launchpad from which success is hardly a walk.)
+<p>   
+Copyright © 2013-2014 Rob Iacobelli (Glitchtank Webdevs - This is our world. We prepare the strong, new businesses and prepare them to handle contemporary tech issues both software/hardware/e-Commerce and start any project on a launchpad from which success is hardly a walk.)</p>
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+<p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+<p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</footer>
+<p>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</div></footer>
